@@ -8,7 +8,7 @@
     "watch": "rm -rf dest && tsc-watch --onSuccess 'node ./dest/index.js'"
   },
   "dependencies": {
-    "xlsx": "^0.15.5"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "typescript": "^3.3.4000",
